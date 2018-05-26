@@ -1,0 +1,18 @@
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+head {
+    background-color: red;
+}
+body{
+    background-color: #FFD3D3;
+}
+
+h1 {
+	font-family: "Helvetica Neue";
+    color: white;
+	font-size: 100px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 150;
+	line-height: 100px;
+}
